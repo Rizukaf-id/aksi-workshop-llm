@@ -1,12 +1,13 @@
 # Chatbot konsultasi laptop
 
 ## Data produk yang digunakan berasal dari tokopedia
-``
+```
 url_source = [
     'https://www.tokopedia.com/p/komputer-laptop/laptop/ultrabook',
     'https://www.tokopedia.com/p/komputer-laptop/laptop/notebook',
     'https://www.tokopedia.com/p/komputer-laptop/laptop/macbook'
-]``
+]
+```
 
 ## System prompt yang digunakan : 
 ```
